@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/trivia_bigodes_game/static/css/main.df75fb1e.chunk.css",
+    "main.js": "/trivia_bigodes_game/static/js/main.55a8b1b6.chunk.js",
+    "main.js.map": "/trivia_bigodes_game/static/js/main.55a8b1b6.chunk.js.map",
+    "runtime-main.js": "/trivia_bigodes_game/static/js/runtime-main.1c019770.js",
+    "runtime-main.js.map": "/trivia_bigodes_game/static/js/runtime-main.1c019770.js.map",
+    "static/js/2.14ae1570.chunk.js": "/trivia_bigodes_game/static/js/2.14ae1570.chunk.js",
+    "static/js/2.14ae1570.chunk.js.map": "/trivia_bigodes_game/static/js/2.14ae1570.chunk.js.map",
+    "index.html": "/trivia_bigodes_game/index.html",
+    "static/css/main.df75fb1e.chunk.css.map": "/trivia_bigodes_game/static/css/main.df75fb1e.chunk.css.map",
+    "static/js/2.14ae1570.chunk.js.LICENSE.txt": "/trivia_bigodes_game/static/js/2.14ae1570.chunk.js.LICENSE.txt",
+    "static/media/headerBigodes.916d31f3.png": "/trivia_bigodes_game/static/media/headerBigodes.916d31f3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c019770.js",
+    "static/js/2.14ae1570.chunk.js",
+    "static/css/main.df75fb1e.chunk.css",
+    "static/js/main.55a8b1b6.chunk.js"
+  ]
+}
