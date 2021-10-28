@@ -4,6 +4,9 @@
   
   Este projeto trata-se de um jogo de perguntas e respostas baseado no jogo **Trivia** _(tipo um show do milhão americano rs)_
   
+  Link da aplicação: 
+  > https://felippe017.github.io/trivia_bigodes_game/
+  
 ---
 # Tecnologias usadas
   Front-End:
